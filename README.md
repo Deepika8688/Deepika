@@ -19,7 +19,7 @@
 I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering patterns in data and building intelligent systems that solve real-world problems.
 
 - 🎓 **Post Graduate Certified** in Data Analysis & Data Science with **Generative AI** (Imarticus Learning)
-- 💼 **Internship Experience** at **CodeSoft** (Python) & **CITD** (Data Analysis)
+- 💼 **Internship Experience** at **CodeSoft** (Python) | **CITD** (Data Analysis) | **Oasis Infobyte** (Java) | **Bharath Intern** (Web Development)
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP & Generative AI**
 - 📊 Love crafting visual stories from raw data using **Power BI, Tableau & Excel**
 - 🐍 Python is my playground — from EDA to model deployment
@@ -36,6 +36,10 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
     <td><b>Post Graduate Certification</b> — Data Science & Analytics with Gen AI (Imarticus Learning)</td>
   </tr>
   <tr>
+    <td align="center">📜</td>
+    <td><b>Certification</b> — Data Analysis & Data Science (Imarticus Learning)</td>
+  </tr>
+  <tr>
     <td align="center">💼</td>
     <td><b>Internship</b> — Python Developer @ <b>CodeSoft</b></td>
   </tr>
@@ -44,8 +48,12 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
     <td><b>Internship</b> — Data Analysis @ <b>CITD</b></td>
   </tr>
   <tr>
-    <td align="center">📜</td>
-    <td><b>Certification</b> — Data Analysis & Data Science (Imarticus Learning)</td>
+    <td align="center">💼</td>
+    <td><b>Internship</b> — Java Developer @ <b>Oasis Infobyte</b></td>
+  </tr>
+  <tr>
+    <td align="center">💼</td>
+    <td><b>Internship</b> — Web Development @ <b>Bharath Intern</b></td>
   </tr>
 </table>
 
@@ -98,7 +106,6 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -110,6 +117,20 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| # | Project | Tech Stack | Status |
+|---|---------|------------|--------|
+| 01 | 🩸 **Blood Group Prediction (CNN)** | CNN · TensorFlow · Keras · OpenCV · Python · Jupyter | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 02 | 📊 **Sales Dashboard (Power BI)** | Power BI · Excel · DAX · Data Cleaning · Data Visualization | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 03 | 🏦 **Loan Default Prediction** | Python · Scikit-learn · Pandas · NumPy · Logistic Regression · Decision Tree · EDA | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 04 | 💬 **Sentiment Analysis** | Python · NLP · NLTK · TF-IDF · Logistic Regression · Pandas · Jupyter | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 05 | 🏠 **House Price Prediction** | Python · Scikit-learn · Linear Regression · Pandas · NumPy · Matplotlib · EDA | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 06 | 👥 **HR Analysis (Power BI)** | Power BI · Excel · DAX · Data Visualization · KPI Metrics | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 07 | 🍽️ **Zomato Restaurant Analysis** | Python · Pandas · NumPy · EDA · Matplotlib · Seaborn · Power BI | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
 
 ---
 
